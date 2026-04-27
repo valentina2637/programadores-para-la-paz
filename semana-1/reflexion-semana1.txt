@@ -1,0 +1,6 @@
+La ciudadanía digital, la participación ciudadana y el uso de herramientas como Github están conectados por la responsabilidad.
+Al navegar en internet, actuamos como ciudadanos digitales que deben priorizar la ética y la veracidad para construir entornos seguros.
+Esta responsabilidad se traslada a la participación ciudadana cuando compartimos información que impacta a nuestra comunidad.
+El uso de herramientas técnicas como Git además de ser una cuestión de programación, es una forma de organizar el trabajo de manera profesional. 
+Al documentar cambios y gestionar proyectos técnicos con Git, fomentamos la transparencia y la calidad en el desarrollo tecnológico. 
+EPor último, integrar estas prácticas técnicas con una conciencia ética nos permite contribuir de forma positiva y ordenada nuestro ecosistema digital.
