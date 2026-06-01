@@ -1,0 +1,20 @@
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz (main)
+$ cd semana-2
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2 (main)
+$ pwd
+/c/Users/ASUS/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2 (main)
+$ touch comandos-terminal.txt
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2 (main)
+$ ls
+'Preguntas semana 2.txt'   comandos-terminal.txt
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2 (main)
+$ touch reflexion-semana2.txt
+
+ASUS@DESKTOP-96DRO6P MINGW64 ~/OneDrive/Documentos/GitHub/programadores-para-la-paz/semana-2 (main)
+$
