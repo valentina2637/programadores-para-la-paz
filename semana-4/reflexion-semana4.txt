@@ -1,0 +1,8 @@
+Permitir que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas utilizando tecnologías abiertas como Node.js es fundamental
+para garantizar su autonomía digital y soberanía tecnológica. Al no depender de software propietario ni de costosas licencias corporativas, 
+los ciudadanos pueden moldear las plataformas exactamente según sus necesidades sociales, territoriales o comunitarias. Node.js, al ser un entorno basado en 
+JavaScript, cuenta con una de las comunidades globales más grandes y accesibles del mundo, lo que facilita el aprendizaje local y reduce las barreras de entrada
+para nuevos desarrolladores. Esto promueve la transparencia, ya que el código abierto puede ser auditado públicamente para asegurar la privacidad de los datos y 
+evitar la manipulación externa. Además, la enorme flexibilidad de Express y el ecosistema de paquetes de npm permiten levantar servidores robustos y escalables de 
+manera rápida y gratuita. Así, el desarrollo comunitario se convierte en una herramienta de transformación social donde la tecnología se descentraliza, 
+devolviendo el control del flujo de información directamente a las manos de las personas que la habitan.
