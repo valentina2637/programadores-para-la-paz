@@ -1,0 +1,6 @@
+Las APIs funcionan como un mensajero inteligente para las comunidades. Cuando un vecino reporta una emergencia o un daño desde su celular, la API toma esa información,
+la organiza de forma limpia y la lleva directo a un servidor central. Esto evita que los datos se pierdan en un caos de mensajes de texto o llamadas.
+Gracias a este orden, el sistema puede disparar alertas automáticas y masivas a los teléfonos de los demás vecinos en tiempo real. Además, 
+permite que todos los reportes se junten en un solo lugar, sin importar si se enviaron por una página web, una app o un bot de mensajería.
+Finalmente, esa misma información organizada se puede conectar a un mapa digital para que la comunidad vea visualmente dónde están ocurriendo los problemas y 
+actuar rápido.
