@@ -1,0 +1,10 @@
+Esta ruta está diseñada para recibir información que alguien envía hacia el servidor.
+Cuando una aplicación le envía un paquete de datos (un texto o un reporte) a la dirección /reporte usando el método POST, la ruta extrae ese mensaje en la línea 
+const mensaje = req.body.mensaje;. Inmediatamente después, el servidor responde con un mensaje de confirmación en formato JSON indicando que el reporte fue recibido
+con éxito y te devuelve el mismo texto que enviaste para confirmar que llegó bien.
+
+En el contexto de una comunidad, esta ruta es la puerta de entrada para registrar cualquier tipo de novedad o aviso. Podría servir para:
+
+Reportar incidentes o daños: Para que los vecinos envíen alertas sobre luminarias apagadas, baches en las calles, fugas de agua o acumulación de basura.
+Alertas de seguridad: Para crear un botón de pánico en una aplicación que mande un mensaje rápido como "Sospechosos en la cuadra 3" y que el servidor lo registre para avisar a los demás.
+Buzón de sugerencias o reclamos: Para que los habitantes de un edificio o barrio dejen sus opiniones o quejas directamente a la administración de manera digital.
