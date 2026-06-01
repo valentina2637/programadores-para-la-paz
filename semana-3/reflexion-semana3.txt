@@ -1,0 +1,8 @@
+Reflexión: Importancia del Registro de Cambios en Proyectos de Software
+Mantener un registro de cambios estructurado con herramientas como Git es vital en el desarrollo de software porque actúa como una red de seguridad técnica. 
+Permite a los desarrolladores experimentar, iterar y refinar la lógica de su código con la certeza de que siempre pueden regresar a una versión estable anterior si
+algo falla.
+Elimina por completo las prácticas caóticas de duplicar carpetas manualmente en el disco, optimizando los recursos del sistema y manteniendo un entorno de trabajo
+limpio y profesional. Asimismo, facilita la auditoría interna del código al documentar con precisión matemática qué línea se modificó, quién lo hizo y por qué.
+Finalmente, un historial detallado promueve el trabajo colaborativo sin riesgos de sobreescritura accidental, sentando las bases esenciales para el mantenimiento, 
+la escalabilidad y el éxito técnico a largo plazo de cualquier sistema informático.
