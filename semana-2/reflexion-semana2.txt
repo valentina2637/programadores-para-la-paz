@@ -1,1 +1,3 @@
-Para un desarrollador es importante saber usar la terminal porque nos permite mejorar la eficiencia, aprender a cerca de la automatización, entendemos como integrar las herramientas de desarrollo, tenemos un control mayor y más preciso sobre los proyectos que realizamos. También investigando un poco, encontré que el consumo de recursos es menor cuando usamos la terminal, por ejemplo la RAM.
+Para un desarrollador aunque la interfaz grafica sea más cómoda también es importante saber usar la terminal porque nos permite mejorar la eficiencia, aprender a cerca de la automatización,
+entendemos como integrar las herramientas de desarrollo, tenemos un control mayor y más preciso sobre los proyectos que realizamos. 
+También investigando un poco, encontré que el consumo de recursos es menor cuando usamos la terminal, por ejemplo la RAM puede "enfocarse" en correr los programas pricipales mientras nosotros ahorramos ese recurso con el uso de la terminal.
