@@ -1,6 +1,0 @@
-La seguridad digital es el escudo que garantiza la integridad de la participación ciudadana. En plataformas donde los usuarios confían información sensible, 
-cualquier brecha de seguridad no solo compromete datos, sino que destruye la confianza, que es el motor de todo proceso participativo. Al proteger el sistema, 
-aseguramos que la voz de la comunidad sea escuchada sin interferencias ni riesgos de manipulación o acceso no autorizado. Además, una plataforma segura es una 
-plataforma continua y estable, lo que permite que los ciudadanos puedan ejercer su derecho a reportar problemas y proponer soluciones en cualquier momento.
-En última instancia, implementar protocolos de seguridad es un acto de respeto y cuidado hacia la comunidad, convirtiendo el espacio digital en un entorno
-confiable, transparente y soberano donde la tecnología se pone, verdaderamente, al servicio de las necesidades colectivas.
