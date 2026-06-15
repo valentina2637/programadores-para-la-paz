@@ -1,0 +1,3 @@
+Al realizar la petición POST, el servidor almacena el reporte en un array y asigna un ID único. Posteriormente,
+al realizar la petición GET a la misma ruta (/reportes), el servidor responde con el listado completo de los reportes almacenados en formato JSON, 
+permitiendo visualizar la información registrada previamente.
