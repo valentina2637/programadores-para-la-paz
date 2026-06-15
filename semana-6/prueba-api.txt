@@ -1,0 +1,1 @@
+Al realizar una petición POST con formato JSON a la ruta /registro, el servidor procesó los datos recibidos mediante el middleware express.json() y devolvió una confirmación con los mismos datos enviados, confirmando que la API está funcionando correctamente.
