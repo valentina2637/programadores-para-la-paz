@@ -1,0 +1,6 @@
+La estabilidad y seguridad de un servidor son la base fundamental para cualquier proceso participativo comunitario. Una plataforma estable garantiza que 
+los usuarios puedan comunicarse y acceder al servicio sin interrupciones, especialmente en momentos críticos, lo que fortalece la confianza colectiva. 
+Si el servicio presenta fallas constantes o carece de medidas de seguridad, los ciudadanos pierden la confianza y dejan de participar, lo que debilita el propósito
+social de la herramienta. Por ello, implementar buenas prácticas como el monitoreo constante, el control de acceso y el mantenimiento preventivo es vital.
+Cuando aseguramos el entorno técnico, no solo protegemos datos, sino que construimos un espacio confiable, transparente y constante donde la comunidad puede 
+expresar sus necesidades y proponer soluciones con la tranquilidad de que la plataforma responderá siempre que sea requerida.
