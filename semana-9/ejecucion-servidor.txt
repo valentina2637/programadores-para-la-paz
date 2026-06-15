@@ -1,0 +1,7 @@
+¿Qué ocurre al ejecutar node server.js?: El entorno de Node.js interpreta y ejecuta el código escrito en server.js, activando la aplicación Express y 
+poniendo el servidor a la escucha de peticiones en el puerto definido.
+
+Mensaje en la terminal: La terminal muestra: Servidor ejecutándose en puerto 3000.
+
+¿Qué sucede al visitar la ruta /estado?: El servidor procesa la petición y devuelve una respuesta en formato JSON que contiene el estado del sistema
+{"estado":"Servidor funcionando","servicio":"API comunitaria"}, confirmando que la lógica de la API está activa y respondiendo correctamente.
