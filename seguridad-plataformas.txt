@@ -1,0 +1,14 @@
+1.Realizar copias de seguridad (Backups) periódicas: Es vital para asegurar que, ante cualquier fallo del sistema o ataque,
+la información de la comunidad pueda ser restaurada rápidamente, evitando la pérdida de datos valiosos.
+
+2.Mantener el software y sistemas actualizados: Las actualizaciones frecuentes suelen incluir parches de seguridad que corrigen vulnerabilidades conocidas.
+No actualizar es dejar una "puerta abierta" para posibles intrusos.
+
+3.Implementar cifrado de datos: Toda información sensible, tanto cuando viaja por internet como cuando se guarda en la base de datos, 
+debe estar cifrada para que, en caso de ser interceptada, no pueda ser leída por terceros.
+
+4.Educación y capacitación a los usuarios: La seguridad no es solo técnica; gran parte de los riesgos se reducen cuando los propios miembros de la
+comunidad aprenden a identificar correos sospechosos (phishing) y a gestionar sus propias contraseñas con seguridad.
+
+5.Establecer un plan de respuesta ante incidentes: No basta con prevenir; hay que saber qué hacer cuando algo sale mal. 
+Tener un protocolo claro sobre cómo informar a la comunidad y cómo contener una falla minimiza el impacto emocional y técnico en los usuarios.
