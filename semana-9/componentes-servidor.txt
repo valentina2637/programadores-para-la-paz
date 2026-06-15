@@ -1,0 +1,14 @@
+Sistema operativo: Es la base que gestiona los recursos de hardware y proporciona un entorno donde los programas pueden ejecutarse de manera organizada.
+Su función principal es administrar la memoria, los archivos y los procesos del servidor.
+
+Node.js: Es el entorno de ejecución que permite que el código escrito en JavaScript funcione fuera del navegador. Su papel es actuar como el motor que procesa las 
+instrucciones y lógica de nuestra aplicación.
+
+Aplicación server.js: Es el archivo que contiene la lógica específica de nuestro servidor, definiendo las rutas y las respuestas ante las peticiones de los usuarios.
+Funciona como el "cerebro" que controla el comportamiento de la API.
+
+Puerto: Es el punto de comunicación lógico que permite que el servidor reciba y envíe tráfico de red hacia el exterior. Actúa como una "puerta" de entrada 
+específica para que los clientes puedan conectar con nuestra aplicación.
+
+Logs: Son los registros cronológicos de eventos y actividades que ocurren en el servidor. Su función es permitir el monitoreo, la trazabilidad de errores y el 
+diagnóstico del comportamiento del sistema en tiempo real.
