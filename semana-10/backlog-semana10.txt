@@ -1,0 +1,9 @@
+Alta prioridad: "Como ciudadano, quiero registrar una incidencia con ubicación y fotos para dejar evidencia clara del caso."
+
+Alta prioridad: "Como coordinador, quiero recibir una notificación automática en Telegram cuando se cree un nuevo reporte para actuar de inmediato."
+
+Media prioridad: "Como miembro del equipo, quiero consultar el historial de reportes por fecha para realizar un seguimiento efectivo de las soluciones."
+
+Media prioridad: "Como administrador, quiero asignar estados (pendiente, en proceso, resuelto) a cada incidencia para mantener la transparencia."
+
+Baja prioridad: "Como ciudadano, quiero descargar un resumen mensual de los reportes en mi zona para conocer la gestión realizada."
