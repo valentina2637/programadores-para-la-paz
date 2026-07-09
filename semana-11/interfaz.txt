@@ -1,0 +1,6 @@
+La interfaz contará con un formulario principal para que el ciudadano cree una nueva incidencia, solicitando únicamente el título, una descripción detallada y 
+la fecha del suceso. 
+Los usuarios podrán visualizar un listado de incidencias disponibles en una vista clara y ordenada.
+Cada incidencia incluirá un botón de "apoyo" o "seguimiento" y un contador visible que indique cuántas personas han reportado o apoyado la misma causa. 
+La interfaz será sencilla, intuitiva y priorizará la privacidad, asegurando que nunca se muestren datos personales sensibles de otros usuarios, 
+manteniendo la confianza en el sistema.
