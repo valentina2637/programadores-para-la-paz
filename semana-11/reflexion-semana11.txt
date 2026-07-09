@@ -1,0 +1,6 @@
+Una plataforma de participación ciudadana requiere una base de datos para almacenar y organizar de forma estructurada los reportes,
+apoyos y registros de la comunidad, permitiendo su gestión eficiente. La autenticación de usuarios es indispensable para verificar la identidad 
+de los participantes, garantizando que las acciones dentro del sistema sean legítimas y evitando suplantaciones o comportamientos malintencionados.
+Finalmente, la protección de la información es un pilar crítico, ya que asegura que los datos personales y sensibles de los ciudadanos estén
+resguardados frente a accesos no autorizados. Al combinar estos elementos, se construye un entorno de confianza y transparencia, lo cual es
+fundamental para que la comunidad se sienta segura al utilizar la herramienta y fomente un proceso de participación ciudadana robusto y duradero.
