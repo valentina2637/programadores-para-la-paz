@@ -1,0 +1,6 @@
+La implementación de metodologías ágiles permite a las comunidades transformar necesidades complejas en tareas manejables, 
+priorizando siempre aquello que aporta mayor valor social. Al utilizar herramientas de automatización (como n8n) y canales de comunicación instantánea (como Telegram),
+reducimos la fricción técnica y permitimos que la participación sea fluida y constante. Esto democratiza la gestión pública, ya que facilita que los ciudadanos
+actúen como veedores en tiempo real sin necesidad de conocimientos técnicos avanzados. En última instancia, la tecnología no solo organiza procesos, 
+sino que construye un puente de confianza entre el ciudadano y la gestión, haciendo que la participación sea más transparente, rápida y efectiva, lo que fortalece 
+significativamente el tejido social de cualquier comunidad.
