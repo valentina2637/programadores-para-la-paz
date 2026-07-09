@@ -1,0 +1,11 @@
+Entidad: Reporte
+
+Campos principales: id, usuario_id, ubicacion, descripcion, fecha_creacion, estado.
+
+Propósito: Almacenar el detalle de las incidencias reportadas por los ciudadanos para su posterior gestión.
+
+Entidad: Notificacion
+
+Campos principales: id, reporte_id, fecha_envio, plataforma (ej. Telegram), status.
+
+Propósito: Registrar las alertas enviadas a los coordinadores para asegurar que cada reporte sea atendido.
