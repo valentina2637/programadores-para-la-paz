@@ -1,0 +1,5 @@
+Durante este curso aprendí que la tecnología es una herramienta fundamental para fortalecer la participación ciudadana y la organización comunitaria.
+Descubrí que plataformas digitales, automatizaciones y herramientas como n8n o Telegram pueden facilitar la creación, difusión y seguimiento de 
+iniciativas ciudadanas, haciendo más accesible la comunicación entre la comunidad y las instituciones. Además, comprendí la importancia de proteger 
+los datos personales y diseñar soluciones tecnológicas sencillas, seguras e inclusivas que permitan a más personas participar activamente en la construcción 
+de una sociedad más democrática.
