@@ -1,0 +1,7 @@
+El ciudadano ingresa a la plataforma y crea una nueva petición, escribiendo el título, la descripción y el objetivo de la causa.
+El sistema valida que la información esté completa y registra la petición en la base de datos.
+La plataforma publica la petición y genera un enlace para que otras personas puedan verla y compartirla.
+Los ciudadanos interesados ingresan al enlace y apoyan la petición con su firma o voto.
+El sistema actualiza automáticamente el número de apoyos y muestra el progreso en tiempo real.
+Cuando la petición alcanza la cantidad de apoyos requerida, el sistema genera un documento PDF con toda la información y las firmas recopiladas.
+Finalmente, el PDF se envía a la entidad correspondiente y el ciudadano recibe una notificación confirmando que el proceso fue completado.
