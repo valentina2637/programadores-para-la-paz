@@ -1,0 +1,23 @@
+Causa
+
+id
+titulo
+descripcion
+fecha_creacion
+estado
+
+¿Para qué sirve?
+Almacena la información de cada petición o causa creada por un ciudadano, incluyendo su título, descripción, fecha de creación y estado (activa o finalizada).
+
+
+Apoyo
+
+id
+causa_id
+nombre_ciudadano
+correo
+fecha_apoyo
+
+¿Para qué sirve?
+Registra los apoyos que recibe cada causa. El campo causa_id relaciona cada apoyo con la petición correspondiente, permitiendo contar las firmas
+y llevar un control de los ciudadanos que la respaldan.
